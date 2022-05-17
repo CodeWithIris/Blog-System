@@ -1,1 +1,1 @@
-# Blog-System
+# Student management
